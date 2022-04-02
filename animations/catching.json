@@ -1,0 +1,87 @@
+{
+    "layer": "Art",
+    "end_handler": "DestroyOnEnd",
+    "entries": [
+        {
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/catching.png",
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 1, "w": 1 },
+                "color": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 0.2 }
+            }
+        },
+        {
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/catching.png",
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 1, "w": 1 },
+                "color": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 0.4 }
+            }
+        },
+        {
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/catching.png",
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 1, "w": 1 },
+                "color": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 0.6 }
+            }
+        },
+        {
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/catching.png",
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 1, "w": 1 },
+                "color": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 0.8 }
+            }
+        },
+        {
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+            "duration": 0.8,
+            "texture": "file:assets/textures/catching.png",
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 1, "w": 1 },
+                "color": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 1.0 }
+            }
+        },
+        {
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/catching.png",
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 1, "w": 1 },
+                "color": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 0.8 }
+            }
+        },
+        {
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/catching.png",
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 1, "w": 1 },
+                "color": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 0.6 }
+            }
+        },
+        {
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/catching.png",
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 1, "w": 1 },
+                "color": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 0.4 }
+            }
+        },
+        {
+            "scale": { "x": 1.0, "y": 1.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/catching.png",
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 1, "w": 1 },
+                "color": { "r": 1.0, "g": 1.0, "b": 1.0, "a": 0.2 }
+            }
+        }
+    ]
+}

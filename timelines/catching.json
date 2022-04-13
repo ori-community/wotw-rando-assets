@@ -7,6 +7,10 @@
             {
                 "type": "Animation",
                 "path": "assets/animations/catching.json"
+            },
+            {
+                "type": "Sound",
+                "sound_event": "Catching"
             }
         ]
     }

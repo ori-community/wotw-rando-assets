@@ -1,280 +1,275 @@
 {
-    "end_handler": "DestroyOnEnd",
-    "entries": [
+    "layer": "Art",
+    "frames": [
         {
-            "layer": "Art",
-            "entries": [
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 0, "y": 0, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 256, "y": 0, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 512, "y": 0, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 768, "y": 0, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1024, "y": 0, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1280, "y": 0, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 0, "y": 256, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 256, "y": 256, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 512, "y": 256, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 768, "y": 256, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1024, "y": 256, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1280, "y": 256, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 0, "y": 512, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 256, "y": 512, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 512, "y": 512, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 768, "y": 512, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1024, "y": 512, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1280, "y": 512, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 0, "y": 768, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 256, "y": 768, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 512, "y": 768, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 768, "y": 768, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1024, "y": 768, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1280, "y": 768, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 0, "y": 1024, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 256, "y": 1024, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 512, "y": 1024, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 768, "y": 1024, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1024, "y": 1024, "z": 256, "w": 256 }
-                    }
-                },
-                {
-                    "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
-                    "duration": 0.033333,
-                    "texture": "file:assets/textures/firework.png",
-                    "texture_size": { "x": 1536, "y": 1280 },
-                    "texture_params": {
-                        "uvs": { "x": 1280, "y": 1024, "z": 256, "w": 256 }
-                    }
-                }
-            ]
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 0, "y": 0, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 256, "y": 0, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 512, "y": 0, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 768, "y": 0, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1024, "y": 0, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1280, "y": 0, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 0, "y": 256, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 256, "y": 256, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 512, "y": 256, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 768, "y": 256, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1024, "y": 256, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1280, "y": 256, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 0, "y": 512, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 256, "y": 512, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 512, "y": 512, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 768, "y": 512, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1024, "y": 512, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1280, "y": 512, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 0, "y": 768, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 256, "y": 768, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 512, "y": 768, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 768, "y": 768, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1024, "y": 768, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1280, "y": 768, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 0, "y": 1024, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 256, "y": 1024, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 512, "y": 1024, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 768, "y": 1024, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1024, "y": 1024, "z": 256, "w": 256 }
+            }
+        },
+        {
+            "scale": { "x": 6.0, "y": 6.0, "z": 1.0 },
+            "duration": 0.033333,
+            "texture": "file:assets/textures/firework.png",
+            "texture_size": { "x": 1536, "y": 1280 },
+            "texture_params": {
+                "uvs": { "x": 1280, "y": 1024, "z": 256, "w": 256 }
+            }
         }
     ]
 }

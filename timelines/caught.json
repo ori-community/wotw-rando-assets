@@ -2,6 +2,7 @@
     {
         "id": 0,
         "start_time": 0,
+        "target_type": "Animation",
         "type": "Group",
         "entries": [
             {
@@ -29,6 +30,7 @@
     {
         "id": 1,
         "start_time": 0.3,
+        "target_type": "Animation",
         "type": "Group",
         "entries": [
             {
@@ -56,6 +58,7 @@
     {
         "id": 2,
         "start_time": 0.6,
+        "target_type": "Animation",
         "type": "Group",
         "entries": [
             {

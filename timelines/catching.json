@@ -1,0 +1,13 @@
+[
+    {
+        "id": 0,
+        "start_time": 0,
+        "type": "Group",
+        "entries": [
+            {
+                "type": "Animation",
+                "path": "assets/animations/catching.json"
+            }
+        ]
+    }
+]

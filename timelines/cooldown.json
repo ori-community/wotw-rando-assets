@@ -6,7 +6,8 @@
         "entries": [
             {
                 "type": "Animation",
-                "path": "assets/animations/cooldown.json"
+                "path": "assets/animations/cooldown.json",
+                "duration": { "variable": "cooldown_duration", "value": 2 }
             }
         ]
     }
